@@ -30,12 +30,12 @@
 
 ###Development:
 
-- __Web Development__
+- **Web Development**
 	- HTML
 	- CSS
 	- Javascript (jquery)
-- __iOS Development__
-- __Interactive Applications__
+- **iOS Development**
+- **Interactive Applications**
 	- OpenFrameworks
 	- Processing
 	- Arduino 
@@ -50,35 +50,35 @@
 
 ##Past experience
 
-- __Freelance Designer/Developer__ | February 2013 - Present
+- **Freelance Designer/Developer** | February 2011 - Present
 
-- __Junior Designer at Layers (Startup behind [perso.na](Perso.na))__ | February 2012 - February 2013 (- -ear)
+- **Junior Designer at Layers (Startup behind [perso.na](Perso.na))** | February 2012 - February 2013 (1 year)
 	- Product Team Member
 	- In charge of all the HTML + CSS code of Perso.na web applic1tyon
 	- Helped the Development Te aunderstand & apply the designs of first the Perso.na iPad app, and later the Persona web application recieved from de Product Team. (Translator-like between designers & developers ;) )
 	
-- __Media Designer at [relajaelcoco.com](relajaelcoco.com)__ | February 2012 - February 2013 (1 year)
+- **Media Designer at [relajaelcoco.com](relajaelcoco.com)** | 2010 - 2011
 	- Develop web pages & interactive applications
 	- did some video editing work too.
 
 ##Skills
 
-- __Designer & Developer__: The ability to work in almost all phases of a product design/development. I Can communicate easily with designers & Developers to achieve success. 
-- __Design Software__: Photoshop, Illustrator, Sketch.
-- Programming languages I've used in chronological order: C, ActionScript 2, ActionScript 3, HTML, CSS, Javascript, Java(Processing), C++(OpenFrameworks), LESS, SASS, Objective-C.
-- __Languages__: Spanish (Native), English (High Communication & Written Level)
+- **Designer & Developer**: The ability to work in almost all phases of a product design/development. I Can communicate easily with designers & Developers to achieve success. 
+- **Design Software**: Photoshop, Illustrator, Sketch.
+- **Programming languages I've used in chronological order**: C, ActionScript 2, ActionScript 3, HTML, CSS, Javascript, Java(Processing), C++(OpenFrameworks), LESS, SASS, Objective-C.
+- **Languages**: Spanish (Native), English (High Communication & Written Level)
 
 ##Achievements
 
 ###Publications
 
-- __Fancyrence__ (thesis project) at Select H book [buy book](http://www.indexbook.com/libro/select-h-graphic-design-from-spain-937/)
+- **Fancyrence** (thesis project) at Select H book [buy book](http://www.indexbook.com/libro/select-h-graphic-design-from-spain-937/)
 
 ###My first Apps
 
-- __Timerapp__, iOS iPhone App
+- **Timerapp**, iOS iPhone App
 
 ## Education
 
-- __Self-taught:__ HTML, CSS, SASS, Responsive Design, Javascript, iOS
-- __Media Designer__ at IED Barcelona
+- **Self-taught:** HTML, CSS, SASS, Responsive Design, Javascript, iOS
+- **Media Designer** at IED Barcelona (2007 - 2010)
