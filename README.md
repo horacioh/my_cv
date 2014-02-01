@@ -56,7 +56,7 @@
 - **Junior Designer at Layers (Startup behind [perso.na](Perso.na))** | February 2012 - February 2013 (1 year)
 	- Product Team Member
 	- In charge of all the HTML + CSS code of Perso.na web applic1tyon
-	- Helped the Development Te aunderstand & apply the designs of first the Perso.na iPad app, and later the Persona web application recieved from de Product Team. (Translator-like between designers & developers ;) )
+	- Helped the Development team to understand & apply the designs of first the Perso.na iPad app, and later the Persona web application designed by de Product Team. (Translator-like between designers & developers ;) )
 	
 - **Media Designer at [relajaelcoco.com](relajaelcoco.com)** | 2010 - 2011
 	- Develop web pages & interactive applications
@@ -78,6 +78,20 @@
 ###My first Apps
 
 - **Timerapp**, iOS iPhone App
+
+
+###Logos I made Currently on use
+
+- Blanca de Quiroga Seguros [http://www.behance.net/gallery/Blanca-Quiroga-reBranding/9324289]()
+- GC's Handmades [http://www.behance.net/gallery/GCs-handmades-logo-reBranding/9133023]()
+- ABGEN [http://www.behance.net/gallery/ABGEN-Identity-website/8815557]()
+
+
+###Websites I made
+- [billymob.com]() - HTML, CSS + JS
+- [jordillopis.com]() - Responsive, Design, Code
+- [abgen.cat]() - Responsive, Design, Code
+- [perso.na]()(offline) 
 
 ## Education
 
