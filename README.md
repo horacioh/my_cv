@@ -55,8 +55,9 @@
 
 - **Junior Designer at Layers (Startup behind [perso.na](Perso.na))** | February 2012 - February 2013 (1 year)
 	- Product Team Member
-	- In charge of all the HTML + CSS code of Perso.na web applic1tyon
+	- In charge of all the HTML + CSS code of Perso.na web application
 	- Helped the Development team to understand & apply the designs of first the Perso.na iPad app, and later the Persona web application designed by de Product Team. (Translator-like between designers & developers ;) )
+	- the close because they got out of money :(
 	
 - **Media Designer at [relajaelcoco.com](relajaelcoco.com)** | 2010 - 2011
 	- Develop web pages & interactive applications
@@ -91,7 +92,7 @@
 - [billymob.com]() - HTML, CSS + JS
 - [jordillopis.com]() - Responsive, Design, Code
 - [abgen.cat]() - Responsive, Design, Code
-- [perso.na]()(offline) 
+- [perso.na]() - (offline) 
 
 ## Education
 
