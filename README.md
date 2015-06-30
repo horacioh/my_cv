@@ -31,28 +31,42 @@
 
 ###Development:
 
-- **Web Development**
-	- HTML
-	- CSS
-	- Javascript (jquery)
-- **iOS Development**
-- **Interactive Applications**
-	- OpenFrameworks
-	- Processing
-	- Arduino 
+- Responsive Web Design
+- HTML
+- CSS
+- Javascript
+- AngularJS
+- Phonegap Mobile Development
+- Ionic Mobile Development
+- Single Page Applications
+- Single Page websites
+- CMS website Integrations (with [http://getkirby.com](Kirby Light CMS))
+- CRUD web Applications With REST APIs
+- Parse Applications
+- REST API Frontend Clients (with AngularJS)
 
 ## Currently Learning
-- Single Page Web Applications
-- Ruby
-- Javascript Development (Backbone.js)
-- iOS Advanced Development
-- Reading about Product Development
+- AngularJS Development (Advanced Level)
+- SASS Development for modular CSS (Advanced Level)
+- ReactJS (junior level)
+- iOS Development (Junior Level)
+- CrossWalk Mobile Framework
 
 
 ##Past experience
 
-- **Freelance Designer/Developer** | February 2011 - Present
+- **Freelance Designer/Developer** | February 2011 - present
 
+- **Frontend Designer/Developer at [Billy Mobile](http://billymob.com)** | February 2014 - November 2014 (9 months)
+	- Product Team Member
+	- In charge of all frontend web related content from the company
+	- code some Website campaigns for the company
+	- code the company website
+	- most of hte campaigns were mobile first works.
+	- work with a lot of compatibillity issues with legacy mobile browsers
+	- Start coding the first prototypes of Julius Mobile Hybrid Application
+	- Learn a lot about AWS & Heroku Integrations in both Frontend & Backend sides
+	
 - **Junior Designer at Layers (Startup behind [perso.na](Perso.na))** | February 2012 - February 2013 (1 year)
 	- Product Team Member
 	- In charge of all the HTML + CSS code of Perso.na web application
@@ -66,8 +80,8 @@
 ##Skills
 
 - **Designer & Developer**: The ability to work in almost all phases of a product design/development. I Can communicate easily with designers & Developers to achieve success. 
-- **Design Software**: Photoshop, Illustrator, Sketch.
-- **Programming languages I've used in chronological order**: C, ActionScript 2, ActionScript 3, HTML, CSS, Javascript, Java(Processing), C++(OpenFrameworks), LESS, SASS, Objective-C.
+- **Design Software**: Sketch, Photoshop, Illustrator.
+- **Programming languages I've used in chronological order**: HTML, CSS, SASS, Javascript.
 - **Languages**: Spanish (Native), English (High Communication & Written Level)
 
 ##Achievements
@@ -89,9 +103,11 @@
 
 
 ###Websites I made
-- [billymob.com]() - HTML, CSS + JS
-- [jordillopis.com]() - Responsive, Design, Code
-- [abgen.cat]() - Responsive, Design, Code
+- [parkingkong.es](http://parkingkong.es) - HTML + CSS + AngularjS
+- [theshifthotelbali.com](http://theshifthotelbali.com) - PHP + JS + CSS + Responsive + CMS Integration
+- [billymob.com](http://billymob.com) - HTML, CSS + JS (old version)
+- [jordillopis.com](http://jordillopis.com) - Responsive, Design, Code
+- [abgen.cat](http://abgen.cat]) - Responsive, Design, Code
 - [perso.na]() - (offline) 
 
 ## Education
