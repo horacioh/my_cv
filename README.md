@@ -7,7 +7,7 @@
 - Social:
 	- Twitter: [https://twitter.com/hhg2288]()
 	- LinkedIn: [https://www.linkedin.com/in/horacioherrera]()
-	- Github: [https://github.com/hhg2288]()
+	- Github: [https://github.com/horacioh]()
 	- Dribbble: [http://github.com/horacio]()
 	- Behance: [http://www.behance.net/horacioh]()
 
@@ -28,11 +28,12 @@
 ### Development:
 
 - Single Page Applications
-- CRUD web Applications With REST APIs
-- REST API Frontend Clients
+- CRUD web Applications With REST & GraphQL APIs
+- REST & GraphQL API Frontend Clients
 - Responsive Web Design
 - ReactJS
 - React Native
+- [Gatsby](https://gatsbyjs.org) Design & Development
 - Node.js Development
 - MongoDB
 - HTML
@@ -40,21 +41,23 @@
 - Javascript
 - Single Page websites
 - CMS website Integrations (with [http://getkirby.com](Kirby Light CMS))
-- Wordpress Design & Development
 
 ## Currently Learning
 
 - ReactJS (expert level)
+- Typescript (mid level)
 - React Native (mid level)
 - nodejs (mid level)
-- data visualization with d3.js (junior level)
+- Reason (junior level)
+- Webassembly (junior level)
 - Docker
 
 ## Past experience
 
-- **Freelance Designer/Developer** | February 2011 - present
-	- Working as a freelance & with another teams focusing only on frontend & design/UX work (HTML, CSS, Design systems)
-	- currently working in [Coeli](https://coeli.cat) Apps (currently in close beta)
+- **Developer & Coach & LeanJS** | October 2017 - present
+	- Product manager for one of our big clients
+	- Senior coach @ Reactjs Academy
+	- Work closely with designers and developers on creating new products following the Lean approach
 
 
 - **Lead Frontend Developer & Designer at [Billy Mobile](http://billymob.com)** | January 2016 - July 2017
@@ -62,6 +65,11 @@
 	- In front of all the technical & Visual side of both current products (PublishersPanel & AdvertisersPanel)
 	- Work closely with the Product Owner prioritizing & defining all the features & roadmap
 	- Work Closely with the Customer Success teams of both Products recieving user's feedback & improving the products.
+	
+	
+- **Freelance Designer/Developer** | February 2011 - present
+	- Working as a freelance & with another teams focusing only on frontend & design/UX work (HTML, CSS, Design systems)
+	- currently working in [Coeli](https://coeli.cat) Apps (currently in close beta)
 
 
 - **Frontend Designer/Developer at [Billy Mobile](http://billymob.com)** | February 2014 - November 2014 (9 months)
@@ -97,5 +105,5 @@
 
 ## Education
 
-- **Self-taught:** HTML, CSS, SASS, Responsive Design, Javascript, iOS, UI/UX
+- **Self-taught:** HTML, CSS, SASS, Responsive Design, Javascript, iOS, UI/UX, React, React Native, GraphQL, NodeJS
 - **Media Designer** at IED Barcelona (2007 - 2010)
