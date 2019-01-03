@@ -2,16 +2,16 @@
 
 ## Contact info
 
-- portfolio: [http://hherrerag.com]()
+- portfolio: [http://hherrerag.com](http://hherrerag.com)
 
 - Social:
-	- Twitter: [https://twitter.com/hhg2288]()
-	- LinkedIn: [https://www.linkedin.com/in/horacioherrera]()
-	- Github: [https://github.com/horacioh]()
-	- Dribbble: [http://github.com/horacio]()
-	- Behance: [http://www.behance.net/horacioh]()
+	- Twitter: [https://twitter.com/hhg2288](https://twitter.com/hhg2288)
+	- LinkedIn: [https://www.linkedin.com/in/horacioherrera](https://www.linkedin.com/in/horacioherrera)
+	- Github: [https://github.com/horacioh](https://github.com/horacioh)
+	- Dribbble: [http://github.com/horacio](http://github.com/horacio)
+	- Behance: [http://www.behance.net/horacioh](http://www.behance.net/horacioh)
 
-	- Blog: [https://medium.com/@hhg2288]()
+	- Blog: [https://medium.com/@hhg2288](https://medium.com/@hhg2288)
 
 - Current location: Barcelona, Catalunya (Spain)
 
