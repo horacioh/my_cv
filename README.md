@@ -40,7 +40,6 @@
 - CSS
 - Javascript
 - Single Page websites
-- CMS website Integrations (with [http://getkirby.com](Kirby Light CMS))
 
 ## Currently Learning
 
