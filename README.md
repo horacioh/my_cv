@@ -4,20 +4,20 @@
 
 - portfolio: [http://hherrerag.com](http://hherrerag.com)
 
-- Social:
-	- Twitter: [https://twitter.com/hhg2288](https://twitter.com/hhg2288)
-	- LinkedIn: [https://www.linkedin.com/in/horacioherrera](https://www.linkedin.com/in/horacioherrera)
-	- Github: [https://github.com/horacioh](https://github.com/horacioh)
-	- Dribbble: [http://github.com/horacio](http://github.com/horacio)
-	- Behance: [http://www.behance.net/horacioh](http://www.behance.net/horacioh)
+### Social
 
-	- Blog: [https://medium.com/@hhg2288](https://medium.com/@hhg2288)
+- Twitter: [https://twitter.com/hhg2288](https://twitter.com/hhg2288)
+- LinkedIn: [https://www.linkedin.com/in/horacioherrera](https://www.linkedin.com/in/horacioherrera)
+- Github: [https://github.com/horacioh](https://github.com/horacioh)
+- Dribbble: [http://github.com/horacio](http://github.com/horacio)
+- Behance: [http://www.behance.net/horacioh](http://www.behance.net/horacioh)
+- Blog: [https://medium.com/@hhg2288](https://medium.com/@hhg2288)
 
 - Current location: Barcelona, Catalunya (Spain)
 
 ## Current Services
 
-### Design:
+### Design
 
 - SaaS UI Design & Development
 - UI & UX
@@ -25,7 +25,7 @@
 - iOS & Android Applications Design & Development
 - Corporate Identity
 
-### Development:
+### Development
 
 - Single Page Applications
 - CRUD web Applications With REST & GraphQL APIs
@@ -53,10 +53,8 @@
 
 ## Past experience
 
-- **Developer & Coach & LeanJS** | October 2017 - present
-	- Product manager for one of our big clients
-	- Senior coach @ Reactjs Academy
-	- Work closely with designers and developers on creating new products following the Lean approach
+- **Javascript Coach** | October 2017 - present
+	- teach JavaScript, React, React Native & GraphQL to developers all around Europe.
 
 
 - **Lead Frontend Developer & Designer at [Billy Mobile](http://billymob.com)** | January 2016 - July 2017
@@ -64,8 +62,8 @@
 	- In front of all the technical & Visual side of both current products (PublishersPanel & AdvertisersPanel)
 	- Work closely with the Product Owner prioritizing & defining all the features & roadmap
 	- Work Closely with the Customer Success teams of both Products recieving user's feedback & improving the products.
-	
-	
+
+
 - **Freelance Designer/Developer** | February 2011 - present
 	- Working as a freelance & with another teams focusing only on frontend & design/UX work (HTML, CSS, Design systems)
 	- currently working in [Coeli](https://coeli.cat) Apps (currently in close beta)
