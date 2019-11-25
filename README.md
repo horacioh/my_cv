@@ -1,8 +1,12 @@
-# Horacio Herrera García - Freelance Designer/Developer
+# Horacio Herrera García - Designer & Developer consultant, Public speaker and Webdev Teacher
+
+## Basic description
+
+I'm Horacio Herrera, Designer & Developer consultant from Panama living in Barcelona. I help companies develop digital products that users want.
 
 ## Contact info
 
-- portfolio: [http://hherrerag.com](http://hherrerag.com)
+- portfolio: [https://horacioh.com](https://horacioh.com)
 
 ### Social
 
@@ -10,7 +14,7 @@
 - LinkedIn: [https://www.linkedin.com/in/horacioherrera](https://www.linkedin.com/in/horacioherrera)
 - Github: [https://github.com/horacioh](https://github.com/horacioh)
 - Dribbble: [http://github.com/horacio](http://github.com/horacio)
-- Behance: [http://www.behance.net/horacioh](http://www.behance.net/horacioh)
+- Codesandbox: [https://hhg.link/csb](https://codesandbox.io/u/horacioh)
 - Blog: [https://medium.com/@hhg2288](https://medium.com/@hhg2288)
 
 - Current location: Barcelona, Catalunya (Spain)
@@ -19,6 +23,7 @@
 
 ### Design
 
+- Design systems
 - SaaS UI Design & Development
 - UI & UX
 - Responsive web design
@@ -27,13 +32,18 @@
 
 ### Development
 
+- Static websites [Gatsby](https://gatsbyjs.org) powered by any CMS
 - Single Page Applications
+- Design systems
+- Web performance optimizations
+- Consultation on frontend architecture
+- Serverless Implementations
 - CRUD web Applications With REST & GraphQL APIs
 - REST & GraphQL API Frontend Clients
 - Responsive Web Design
 - ReactJS
 - React Native
-- [Gatsby](https://gatsbyjs.org) Design & Development
+
 - Node.js Development
 - MongoDB
 - HTML
@@ -41,15 +51,30 @@
 - Javascript
 - Single Page websites
 
+## Teaching
+
+- JavaScript Trainings
+- React trainings
+- React Native (Expo) trainings
+- GraphQL trainings
+- Design Systems Trainings
+- HTML + CSS trainings (accessibility and semantics)
+- Serverless trainings
+
+## Speaking
+
+Checkout my [current abstracts](https://github.com/horacioh/horacio_speaks) available
+
 ## Currently Learning
 
 - ReactJS (expert level)
 - Typescript (mid level)
 - React Native (mid level)
 - nodejs (mid level)
-- Reason (junior level)
-- Webassembly (junior level)
 - Docker
+- Continuous Delivery and Continuous integration Setup
+- Github Actions
+- Accessibility in Frontend Applications (web)
 
 ## Past experience
 
