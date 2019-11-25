@@ -7,15 +7,18 @@ I'm Horacio Herrera, Designer & Developer consultant from Panama living in Barce
 ## Contact info
 
 - portfolio: [https://horacioh.com](https://horacioh.com)
+- email: [mailto:hi@horacioh.com](hi@horacioh.com)
 
 ### Social
 
 - Twitter: [https://twitter.com/hhg2288](https://twitter.com/hhg2288)
-- LinkedIn: [https://www.linkedin.com/in/horacioherrera](https://www.linkedin.com/in/horacioherrera)
 - Github: [https://github.com/horacioh](https://github.com/horacioh)
-- Dribbble: [http://github.com/horacio](http://github.com/horacio)
+- Twitch: [https://hhg.link/twitch](https://twitch.tv/horacioh)
+- Youtube: [https://hhg.link/youtube](https://www.youtube.com/channel/UC-MHIQayBciRoA4HXx873jg/videos)
 - Codesandbox: [https://hhg.link/csb](https://codesandbox.io/u/horacioh)
-- Blog: [https://medium.com/@hhg2288](https://medium.com/@hhg2288)
+- LinkedIn: [https://www.linkedin.com/in/horacioherrera](https://www.linkedin.com/in/horacioherrera)
+- Dribbble: [http://github.com/horacio](http://github.com/horacio)
+- Blog (old): [https://medium.com/@hhg2288](https://medium.com/@hhg2288)
 
 - Current location: Barcelona, Catalunya (Spain)
 
@@ -75,6 +78,45 @@ Checkout my [current abstracts](https://github.com/horacioh/horacio_speaks) avai
 - Continuous Delivery and Continuous integration Setup
 - Github Actions
 - Accessibility in Frontend Applications (web)
+
+## Latest projects
+
+- **personal website:** [https://horacioh.com](https://horacioh.com)
+	- Built with Gatsby
+	- sources: MDX & YAML local files
+	- theme-ui
+	- CSS-in-JS
+
+- **Agilogy:** [https://agilogy.netlify.com](https://agilogy.netlify.com)
+	- Built with Gatsby
+	- Design and Development
+	- all the technologies I use are [here](https://twitter.com/hhg2288/status/1197274073912545281).
+	- Tailwind CSS
+	- Content powered by Prismic
+	- Checkout some videos about it [here](https://www.youtube.com/playlist?list=PL_Q4x-stM4VIKhUXX1erfpImfJCrU1NrU).
+	
+- **Meat Burgers madrid**: [https://meat-madrid.netlify.com/](https://meat-madrid.netlify.com/)
+	- Built with Gatsby
+	- only Development
+	- Content powered by Prismic
+	- Multi-lingual (English & Spanish)
+	- CSS-in-JS
+	- theme-ui
+	- Checkout some videos about it [here](https://www.youtube.com/playlist?list=PL_Q4x-stM4VKVochSTzFq7yVmeid8sB3G). (Spanish stream)
+	
+- **Onofood.co:** [https://onoblends.co/](https://onoblends.co/)
+	- Build with React Native Web
+	- only Development
+	- Serverside rendering + Responsive design
+	- Built on top of [Aven cloud](https://aven.io/)
+	
+- **Hamerlin.com:** [https://develop.hamerlin.com/](https://develop.hamerlin.com/)
+	- Built With Gatsby
+	- Content powered by WordPress
+	- WPGraphQL
+	- CSS-in-JS
+	- Checkout some videos about it [here](https://www.youtube.com/playlist?list=PL_Q4x-stM4VLJMNyoGcqOgm77rT4QEWy8).
+	
 
 ## Past experience
 
